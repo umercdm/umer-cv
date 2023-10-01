@@ -22,7 +22,7 @@ function App() {
         Linkedin ID:
         https://www.linkedin.com/in/muhammad-umer-66574b181?
       </h4>
-      <h4>Githup ID:</h4>
+      <h4>Githup ID: umercdm</h4>
 
       <p className="container3">
         <h2>Personal Profile</h2>
