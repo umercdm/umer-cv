@@ -20,7 +20,7 @@ function App() {
       <h4>DOB: 12 July 1991</h4>
       <h4>
         Linkedin ID:
-        https://www.linkedin.com/in/muhammad-umer-66574b181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        https://www.linkedin.com/in/muhammad-umer-66574b181?
       </h4>
       <h4>Githup ID:</h4>
 
