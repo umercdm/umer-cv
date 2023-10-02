@@ -17,7 +17,6 @@ function App() {
       <h4>Adress: Walton Road, Lahore Cantt</h4>
       <h4>Contact: 0321-4617040</h4>
       <h4>Email: umercdm@gmail.com</h4>
-      <h4>DOB: 12 July 1991</h4>
       <h4>
         Linkedin ID:
         https://www.linkedin.com/in/muhammad-umer-66574b181?
